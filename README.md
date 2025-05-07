@@ -1,1 +1,1 @@
-# odin-recipes
+This project is a webpage showing all kinds of food recipes. Here will be utilised the basics of HTML like the use of paragraphs and headings, links and images, lists and general markup semantics.
