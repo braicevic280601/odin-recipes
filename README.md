@@ -1,1 +1,1 @@
-# odin-recipes
+This project is about making a recipes website that is made right now only using the basics of HTML. At the end of the project it will consist also CSS and probably JavaScript but for right now it is yet a distant option.
