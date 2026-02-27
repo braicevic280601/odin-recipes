@@ -1,1 +1,1 @@
-# odin-recipes
+This little project is called Odin Recipes and it will host a couple of tasty dishes and how to make them. This project is currently a test of some basic HTML skills gained through The Odin Project Foundations course.
